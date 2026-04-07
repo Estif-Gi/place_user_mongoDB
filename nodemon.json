@@ -1,0 +1,9 @@
+
+{
+    "env": {
+        "DB_USER": "estif_01",
+        "DB_PASSWORD": "Hanna0111atG",
+        "DB_NAME": "Cluster0",
+        "JWT_SECRET": "supersecret_dont_share_estifanos_MERN"
+    }
+}
